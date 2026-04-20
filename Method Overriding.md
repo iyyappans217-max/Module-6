@@ -1,4 +1,4 @@
-<img width="1922" height="979" alt="image" src="https://github.com/user-attachments/assets/f2f83c6b-b0f1-4d74-99e5-bb0cdae26026" /># 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
+
 
 ## 🧠 AIM:
 To write a Python program that demonstrates class inheritance by creating a parent class `Fish` with a method `type`, and a child class `Shark` that overrides the `type` method.
